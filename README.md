@@ -18,6 +18,6 @@ I'm Navami Sunil, a passionate student of Electronics and Communication Engineer
 
 ## Connect with Me
 
-- 📫 You can reach me via [email](mailto:navamisunil04@gmail.com).
+- 📫 You can reach me via [email](mailto:navamisunil.mec@gmail.com).
 - 
 -
