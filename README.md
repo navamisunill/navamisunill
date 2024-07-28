@@ -14,6 +14,10 @@ I'm Navami Sunil, a passionate student of Electronics and Communication Engineer
 ## Projects
 
 - 🔗 You can find some of my coding projects here.
+- 1. Employee Management Website:
+
+
+     link: https://github.com/navamisunill/Employee-Management-Website
 
 ## Connect with Me
 
