@@ -14,11 +14,9 @@ I'm Navami Sunil, a passionate student of Electronics and Communication Engineer
 ## Projects
 
 - 🔗 You can find some of my coding projects here.
-- 📄 I love contributing to open-source projects and collaborating with others.
 
 ## Connect with Me
 
 - 📫 You can reach me via [email](mailto:navamisunil.mec@gmail.com).
 - linkedin- https://www.linkedin.com/in/navami-sunil/
-- 
--
+  
