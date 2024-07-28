@@ -4,8 +4,8 @@ I'm Navami Sunil, a passionate student of Electronics and Communication Engineer
 
 ## About Me
 
-- 🎓 Studying Electronics and Communication Engineering.
-- 📚 Pursuing a degree in Programming and Data Science at IIT Madras.
+- 🎓 Studying Electronics and Communication Engineering at Govt.Model Engineering College.
+- 📚 Pursuing BS degree in Programming and Data Science at IIT Madras.
 - 💻 Proficient in Python, HTML, CSS.
 - 🌱 Currently learning C++, Data Structures and Algorithms, JavaScript, and more.
 - 🌐 Interested in web development.
