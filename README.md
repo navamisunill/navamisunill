@@ -15,7 +15,7 @@ I'm Navami Sunil, a passionate student of Electronics and Communication Engineer
 
 - 🔗 You can find some of my coding projects here.
 - 1. Employee Management Website:
-
+     The Employee Management System is a web application built with Flask and MySQL that allows users to create, view, update, and manage employee records efficiently along with a leave       application system. It features a user-friendly interface with navigation and form validation to streamline employee data management processes.
 
      link: https://github.com/navamisunill/Employee-Management-Website
 
