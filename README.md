@@ -19,5 +19,6 @@ I'm Navami Sunil, a passionate student of Electronics and Communication Engineer
 ## Connect with Me
 
 - 📫 You can reach me via [email](mailto:navamisunil.mec@gmail.com).
+- linkedin- https://www.linkedin.com/in/navami-sunil/
 - 
 -
